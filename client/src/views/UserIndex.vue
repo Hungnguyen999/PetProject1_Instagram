@@ -1,0 +1,18 @@
+<template>
+    <v-app>
+        <router-view></router-view>
+    </v-app>
+</template>
+<script>
+
+export default {
+    data(){
+        return {
+        }
+    },
+    methods:{
+    },
+};
+</script>
+<style lang="scss" scoped>
+</style>
